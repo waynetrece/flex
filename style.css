@@ -104,3 +104,19 @@ table {
   .course li{
     line-height: 24px;
   }
+  .footer{
+    margin-top:100px;
+    background: gray;
+    color: white;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footer p{
+    line-height: 24px;
+}
+.footer p a{
+    color: white;
+    text-decoration: none;
+}
